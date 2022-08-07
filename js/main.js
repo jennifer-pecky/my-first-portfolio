@@ -2,7 +2,6 @@ $(document).ready(function () {
 
 
     $('#menu').click(function () {
-        // alert("Toggled");
         $(this).toggleClass('fa-times');
         $('header').toggleClass('toggle');
     });
@@ -37,48 +36,6 @@ $(document).ready(function () {
     });
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // const menu = document.querySelector('#menu');
 // const header = document.querySelector('#header');
